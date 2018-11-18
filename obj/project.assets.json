@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anisouddai/Projects/Tp05_619/Tp05_619/Tp05_619.csproj",
+      "projectUniqueName": "/Users/anisouddai/Projects/Tp05_619/SecuriteSysteme/Tp05_619.csproj",
       "projectName": "Tp05_619",
-      "projectPath": "/Users/anisouddai/Projects/Tp05_619/Tp05_619/Tp05_619.csproj",
+      "projectPath": "/Users/anisouddai/Projects/Tp05_619/SecuriteSysteme/Tp05_619.csproj",
       "packagesPath": "/Users/anisouddai/.nuget/packages/",
-      "outputPath": "/Users/anisouddai/Projects/Tp05_619/Tp05_619/obj",
+      "outputPath": "/Users/anisouddai/Projects/Tp05_619/SecuriteSysteme/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
