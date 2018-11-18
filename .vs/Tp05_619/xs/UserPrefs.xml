@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{7A4B524E-D719-4C6B-A24D-90FD492A661A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
     <Files>
-      <File FileName="Views/Home/Index.cshtml" Line="17" Column="6" />
+      <File FileName="Views/Home/Index.cshtml" Line="17" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Tp05__619 PreferredExecutionTarget="MonoDevelop.Default" />
