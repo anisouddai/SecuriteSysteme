@@ -15,6 +15,11 @@ namespace Tp05_619.Controllers
             return View();
         }
 
+        public IActionResult Inscription()
+        {
+            return View();
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
@@ -22,7 +27,7 @@ namespace Tp05_619.Controllers
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Administrateur()
         {
             ViewData["Message"] = "Your contact page.";
 
